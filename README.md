@@ -13,4 +13,4 @@ Designed an interactive, 2-page executive Power BI dashboard analyzing an HR wor
 *   **Techniques:** Data Cleaning, Relational Data Modeling, Interactive Data Visualization
 
 **Dashboard Preview**
-
+![image alt](https://github.com/Vaishakhan-Pillai/HR-Analytics-Employee-Attrition-Dashboard/blob/main/Page%201.png?raw=true)
